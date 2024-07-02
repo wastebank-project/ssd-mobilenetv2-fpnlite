@@ -1,0 +1,14 @@
+BotolKaca
+BotolPlastik
+Galon
+GelasPlastik
+Kaleng
+KantongPlastik
+KantongSemen
+Kardus
+KemasanPlastik
+KertasBekas
+Koran
+PecahanKaca
+ToplesKaca
+TutupGalon
